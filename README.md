@@ -1,5 +1,5 @@
 # Code
-These files implement the survey selection correction from Harris, Eckhardt, and Goldfarb, 2025. The paper can be found at https://arxiv.org/abs/2404.17693.
+These files illustrate how to implement the nonresponse correction from Harris, Eckhardt, and Goldfarb, 2025. The paper can be found at https://arxiv.org/abs/2404.17693.
 
 There are 3 files.
 
