@@ -5,11 +5,12 @@ There are 3 files.
 
 1. Selection_In_Surveys_Example.do
 Generates a synthetic version of the Norway in Corona Times survey using estimates reported in "Selection in Surveys: Using Randomized Incentives to Detect and Account for Nonresponse Bias" available at https://www.nber.org/papers/w29549.
+Then performs both the correction for both continuous and binary variables using methods from our paper.
 
-2. Simulated_Example_continuous.do
+3. Simulated_Example_continuous.do
 Generates a selectively observed continuous survey variable and performs our nonresponse correction, as well as diagnostic tests.
 
-3. Simulated_Example_binary.do
+4. Simulated_Example_binary.do
 Generates a selectively observed binary survey variable and performs our nonresponse correction, as well as diagnostic tests.
 
 
