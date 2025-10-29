@@ -1,5 +1,5 @@
 # Code
-These files illustrate how to use data request and response timing to construct instruments for nonresponse corrections as proposed by Harris, Eckhardt, and Goldfarb, 2025. The paper can be found at https://arxiv.org/abs/2404.17693.
+These files illustrate how to construct and use data request instruments for nonresponse corrections as proposed by Harris, Eckhardt, and Goldfarb, 2025. The paper can be found at https://arxiv.org/abs/2404.17693.
 
 There are 3 files.
 
